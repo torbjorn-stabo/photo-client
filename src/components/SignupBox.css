@@ -1,0 +1,20 @@
+input {
+    box-sizing: border-box;
+    /* display: block; */
+    width: 100%;
+}
+
+.login {
+    width: 20em;
+    margin: 0px auto;
+}
+.hide{
+    display: none;
+  }
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+.buttons button {
+    width: 50%;
+}

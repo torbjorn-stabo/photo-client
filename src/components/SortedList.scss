@@ -1,0 +1,15 @@
+.sortedlist {
+    .item {
+        &:hover {
+            background-color: #d59668;
+        }
+
+        td:first-child {
+            text-align: left;
+        }
+    }
+
+    .header th:hover {
+        background-color: #84b7b6;
+    }
+}
